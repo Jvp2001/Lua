@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CLua",
+        "repositoryURL": "https://github.com/DavidSkrundz/CLua.git",
+        "state": {
+          "branch": "master",
+          "revision": "db19aa7e738387c1be5e4f032e197921271f9c5c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
